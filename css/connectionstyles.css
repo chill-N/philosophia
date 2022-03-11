@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+.dreamlandscapeFRAME {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 9px;
+  background-color: rgb(254, 254, 254);
+  position: absolute;
+  left: 707px;
+  top: 208px;
+  width: 948px;
+  height: 574px;
+  z-index: 20;
+}
+
+.frame{
+  border-width: 1px;
+  border-radius: 10px;
+  position: absolute;
+  left: 524px;
+  top: 78px;
+  width: 1304px;
+  height: 832px;
+  z-index: 5;
+}
+
+.alanquote{
+  position: absolute;
+  left: 33px;
+  top: 556px;
+  width: 446px;
+  height: 344px;
+  z-index: 6;
+}
+
+.frameFRONT {
+  background-image: url("frameFRONT.png");
+  position: absolute;
+  left: 708px;
+  top: 206px;
+  width: 947px;
+  height: 577px;
+  z-index: 50;
+}
+
+

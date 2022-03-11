@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/styleindex.css">
+		<title>Philosphia</title>
+		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/addons/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+		
+	</head>
+	
+	<body>
+		<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+		
+		<h1 class="title"> Welcome </h1>
+		
+		<div class="topic">
+			<h2>Philosophy: <span class="rootword"> (from Greek: philosophia, 'love of wisdom')</span></h2>
+			<p class="backcolor" >Def. the study of general & fundamental questions, such as those about existence, reason, knowledge, values, mind, and language. Such questions are often posed as problems to be studied or resolved. <span class="defsource"><a href="https://en.wikipedia.org/wiki/Philosophy" target="_blank">-Wikipedia</a></span></p>
+		</div>
+		
+		
+		<div>
+			<a href="https://www.instagram.com/p/CJCLwQkneaT/" target="_blank"><img src="images/earthhug.png" alt="sculpure of woman hugging earth" class="motherearthpic"/></a>
+			
+			<a href="tvs.html" target="_blank"><img class="firstbutton" src="images/flowerbutton.png" alt="colored flower" /></a>
+			
+			<img src="images/phone.png" alt="iphone" class="phone" /><br>
+			
+			
+			
+			<iframe width="560" height="315" class="wondervideo" src="https://www.youtube.com/embed/7VRwiFAtyEI?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+		</div>
+
+		 <script src="sketch.js"></script>
+		
+		<script>
+ $(document).ready(function() {
+            $("body").css("display", "none");
+            $("body").fadeIn(2500);
+    });
+
+	
+setTimeout(function() {
+ $('#overlay').fadeIn(1000);}, 9000 );
+$('#overlay').click(function() {
+	$('#overlay').fadeOut(1000);
+
+});
+
+</script>
+
+	</body>
+	
+</html>

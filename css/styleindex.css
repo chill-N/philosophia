@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+html{
+	background-image: url("../images/backSPACE.jpg");
+	background-color: black;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment: fixed;
+	z-index: -900;
+	}
+h2{
+	margin-bottom: 1px;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-family: "Hydrophilia Liquid";
+	font-kerning: normal;
+}
+
+.topic{
+	text-align: center;
+	color: white;
+	font-family: "Hydrophilia Liquid";
+	font-size: 50px;
+}
+
+.rootword{
+	font-size: 40px;
+	font-style: italic;
+}
+
+p{
+	margin-left: 210px;
+	margin-right: 210px;
+	font-size: 35px;
+}
+.backcolor{
+	background-color: rgba(0,0,0,.5);
+    color: #fff;
+	padding: 15px;		
+}
+
+.defsource{
+	font-style: italic;
+	font-size: 15px;
+}
+
+.motherearthpic{
+  background-image: url("earthhug.png");
+  position:absolute;
+  left: 0px;
+  top: 537px;
+  width: 636px;
+  height: 575px;
+  z-index: 2;
+}
+
+.phone{
+  background-image: url("phone copy 2.png");
+  position: absolute;
+  left: 819px;
+  top: 676px;
+  width: 339px;
+  height: 170px;
+  z-index: 4;
+}
+
+.wondervideo{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(21, 152, 3);
+  position: absolute;
+  left: 858px;
+  top: 684px;
+  width: 257px;
+  height: 149px;
+  z-index: 5;
+}
+
+
+
+.firstbutton{
+	background-image: url("flowerbutton.png");
+	position:absolute;
+  left: 1350px;
+  top: 937px;
+  width: 100px;
+  height: 100px;
+  z-index: 2;
+}
+
+a{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#overlay {
+    position: fixed;
+	object-fit: cover;
+    top: 0px;
+    z-index: 0;
+}
+
+

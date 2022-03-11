@@ -1,0 +1,207 @@
+@charset "utf-8";
+/* CSS Document */
+video {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  background-color: black;
+  position: absolute;
+  left: 798px;
+  top: 462px;
+  width: 269px;
+  height: 200px;
+  z-index: 50;
+}
+
+.video1{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  /* background-color: rgb(0, 255, 0);*/
+  position: absolute;
+  left: 369px;
+  top: 178px;
+  width: 285px;
+  height: 220px;
+  z-index: 14;
+}
+
+
+.video2 {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 13px;
+  position: absolute;
+  left: 1195px;
+  top: 113px;
+  width: 265px;
+  height: 201px;
+  z-index: 17;
+}
+
+.video3 {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 9px;
+  position: absolute;
+  left: 1616px;
+  top: 739px;
+  width: 278px;
+  height: 210px;
+  z-index: 20;
+}
+
+.mruniverse{
+  background-image: url("mruniverseBACK.png");
+  position: absolute;
+  left: -62px;
+  top: 118px;
+  width: 310px;
+  height: 207px;
+  z-index: 25;
+}
+
+.trippyeye{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 11px;
+  position: absolute;
+  left: -4px;
+  top: 491px;
+  width: 262px;
+  height: 200px;
+  z-index: 23;
+}
+
+.bukowski{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 15px;
+  position: absolute;
+  left: 12px;
+  top: 810px;
+  width: 275px;
+  height: 205px;
+  z-index: 15;
+}
+
+.speaktruth{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  position: absolute;
+  left: 425px;
+  top: 791px;
+  width: 276px;
+  height: 204px;
+  z-index: 4;
+}
+
+.dreamlandscape{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 14px;
+  position: absolute;
+  left: 412px;
+  top: 478px;
+  width: 262px;
+  height: 199px;
+  z-index: 12;
+}
+
+.lao {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  position: absolute;
+  left: 805px;
+  top: 779px;
+  width: 263px;
+  height: 202px;
+  z-index: 10;
+}
+
+.connectedworld{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  position: absolute;
+  left: 1202px;
+  top: 456px;
+  width: 270px;
+  height: 202px;
+  z-index: 6;
+}
+
+.alienmonkey{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  position: absolute;
+  left: 1203px;
+  top: 780px;
+  width: 268px;
+  height: 202px;
+  z-index: 8;
+}
+
+.seneca {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  position: absolute;
+  left: 1629px;
+  top: 111px;
+  width: 292px;
+  height: 205px;
+  z-index: 21;
+}
+
+.hurtson{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 11px;
+  position: absolute;
+  left: 1629px;
+  top: 405px;
+  width: 278px;
+  height: 198px;
+  z-index: 18;
+}
+
+
+
+
+
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+
+
+.eyes{
+  border-width: 0.44px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-radius: 10px;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 791px;
+  top: 127px;
+  width: 271px;
+  height: 205px;
+  z-index: 2;
+}
